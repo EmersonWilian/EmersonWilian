@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+Olá, tudo bem? Seja Bem vindo ao meu perfil do GitHub
 
 - 👷‍♂️ Estudando Engenharia de Biossistemas
 - 👨‍🔬 Pesquisador Fapesp em sistemas embarcados
